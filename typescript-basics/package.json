@@ -4,7 +4,7 @@
   "description": "1. Compile the files using `tsc filename.ts`. It generates an .js file\r 2. Use `node filename.js` to run the js file",
   "main": "index.js",
   "scripts": {
-    "start": "tsc index.ts && node out/index.js",
+    "start": "tsc index.ts && node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
